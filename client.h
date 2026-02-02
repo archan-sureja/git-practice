@@ -7,5 +7,6 @@ int main(){
     printf("Third printf");
     printf("Fourth printf");
     printf("Fifth printf");
+    printf("Sixth printf");
     return 0;
 }
