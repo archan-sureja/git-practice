@@ -15,5 +15,6 @@ int main () {
     // comment for return statement.
 
     // amended comments.
+    // comment for return statement.
     return 0;
 }
