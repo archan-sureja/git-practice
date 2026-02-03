@@ -2,6 +2,15 @@
 #include <unistd.h>
 #include <sys/types.h>
 
+
+char func(){
+
+    // the beatles. hey 
+    printf("head in hand");
+
+}
+
+
 int main () {
 
     // comment for i
